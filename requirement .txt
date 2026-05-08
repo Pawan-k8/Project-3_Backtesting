@@ -1,2 +1,0 @@
-need credentials.py
-check project 1 for info
