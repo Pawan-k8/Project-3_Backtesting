@@ -1,4 +1,4 @@
-# Project-3_Backtesting
+# Project_Algo-_Backtesting
 
 ## Backtesting script with moving average crossover
 
